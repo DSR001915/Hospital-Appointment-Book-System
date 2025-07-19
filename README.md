@@ -94,37 +94,79 @@ For any questions or support, please open an issue on this repository.
 
 *Disclaimer: Replace backend and technology details as per your exact implementation and update links as needed. This template is crafted based on prevalent features and practices in hospital appointment booking systems.*
 
-[1] https://bookafy.com/medical-booking-system/
-[2] https://binariks.com/blog/patient-scheduling-software-features/
-[3] https://ijrpr.com/uploads/V6ISSUE3/IJRPR40649.pdf
-[4] https://github.com/topics/doctor-appointment-management
-[5] https://github.com/ac030540/hospital-appointment-booking/blob/master/README.md
-[6] https://github.com/CharudattaGhute/Hospital-Appointment-System
-[7] https://github.com/Nazakat-Git/Hospital-Appointment-Booking-System
-[8] https://github.com/topics/appointment-booking
-[9] https://github.com/topics/doctor-appointment-booking
-[10] https://github.com/vijaisuria/appointment-booking-system/blob/master/README.md
-[11] https://ru.scribd.com/document/67083439/Appointment-System
-[12] https://github.com/topics/hospital-management-system
-[13] https://mocdoc.com/blog/benefits-of-an-online-appointment-management-system-in-healthcare-industry
-[14] https://github.com/Project-Based-Learning-IT/healthcare-appointment-scheduling-app
-[15] https://www.tigahealth.com/p/eappointment/
-[16] https://www.doctrue.in/blogs/patient-appointment-system-explained
-[17] https://github.com/md0011/Doctor-Appointment-System
-[18] https://www.qmatic.com/blog/appointment-systems-in-hospitals
-[19] https://tameta.tech/blogs/topics/doctor-appointment-booking-system-development-complete-guide
-[20] https://github.com/Gunjan1116/doctor_patient_appointment_booking
-[21] https://www.youtube.com/watch?v=eRTTlS0zaW8
-[22] https://convin.ai/blog/hospital-appointment-booking
-[23] https://codecanyon.net/item/infycare-laravel-clinic-appointment-booking-management/34157995
-[24] https://mocdoc.com/hospital-appointment-scheduling-software
-[25] https://github.com/comporder/HospitalAppointmentSystem
-[26] https://helloyubo.com/the-role-of-appointment-management-in-hospital-systems/
-[27] https://www.youtube.com/watch?v=SMtsviYk-_o
-[28] https://pmc.ncbi.nlm.nih.gov/articles/PMC9664617/
-[29] https://whitelabelfox.com/appointments-bookings-at-hospital-traditional-booking-system-v-s-modern-booking-system/
-[30] https://www.tigahealth.com/benefits-of-e-appointment-systems-in-healthcare/
-[31] https://itfrontdesk.com/use-a-medical-appointment-booking-system/
-[32] https://hellotars.com/chatbot-templates/healthcare/eK11Gk/appointment-booking-chatbot-for-doctor-consultation
-[33] https://bookafy.com/online-patient-booking-system/
-[34] https://appkodes.com/doctor-appointment-booking-script/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital Appointment Booking System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        header h1 {
+            color: #2a7ae2;
+        }
+        section {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px #ccc;
+        }
+        h2 {
+            color: #2a7ae2;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 0 8px #888;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hospital Appointment Booking System</h1>
+        <p>A web-based platform to efficiently book and manage hospital appointments.</p>
+    </header>
+
+    <section>
+        <h2>Project Overview</h2>
+        <p>
+            This system helps patients book appointments with doctors online, view schedules, and receive appointment reminders. Hospital staff can manage doctor profiles, appointments, and calendars through an admin panel.
+        </p>
+
+        <h2>Key Features</h2>
+        <ul>
+            <li>Patient and doctor registration and login</li>
+            <li>Doctor profiles and availability</li>
+            <li>Real-time appointment scheduling and calendar view</li>
+            <li>Automated appointment reminders</li>
+            <li>Admin panel for managing users and appointments</li>
+            <li>Secure data handling and privacy compliance</li>
+        </ul>
+
+        <h2>Visual Interface</h2>
+        <img src="generated-image.jpg" alt="Hospital Appointment Booking System Interface" title="Hospital Appointment Booking System Interface">
+
+        <h2>How to Use</h2>
+        <p>
+            Users can register, log in, browse available doctors and time slots, book appointments, and manage them online. The admin can monitor and adjust schedules as needed.
+        </p>
+    </section>
+</body>
+</html>
