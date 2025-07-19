@@ -6,7 +6,7 @@ Features: Patient Information, Room Availability, Staff and Operating Room Sched
 
 Tech Stack: HTML, CSS, JavaScript, BootStrap.
 
-Hosted url: https://kr-viku.github.io/Avipra_Hospital/
+Hosted url: https://dsr001915.github.io/Hospital-Appointment-Book-System/
 =======
 # Hospital-Appointment-Book-System
 >>>>>>> 2caacc778656b3fe7641c8b1fc1d6601efda7017
